@@ -5,3 +5,5 @@ int main(void) {
   printf("GOOD！");
 }
 ```
+- [ ] 学习
+- [x] 玩耍
